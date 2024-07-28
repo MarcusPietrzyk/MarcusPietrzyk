@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MarcusPietrzyk
+- 👀 I’m interested in Scripting
+- 🌱 I’m currently learning TypeScript
+- 📫 How to reach me @marcuspietrzyk in discord
+- 😄 Pronouns: he/him
